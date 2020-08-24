@@ -1,5 +1,5 @@
 
-1. Implement and Monitor an Azure Infrastructure (50-55%)
+# 1. Implement and Monitor an Azure Infrastructure (50-55%)
 Implement cloud infrastructure monitoring
 
 •	monitor security
@@ -83,7 +83,7 @@ Implement and manage hybrid identities
 •	configure single sign-on
 •	use Azure AD Connect Health
 
-2. Implement Management and Security Solutions (25-30%)
+# 2. Implement Management and Security Solutions (25-30%)
 Manage workloads in Azure
 
 •	migrate workloads using Azure Migrate
@@ -125,7 +125,7 @@ Manage security for applications
 •	implement and configure Azure AD Managed Identities
 •	register and manage applications in Azure AD
 
-3. Implement Solutions for Apps (10-15%)
+# 3. Implement Solutions for Apps (10-15%)
 Implement an application infrastructure
 
 •	create and configure Azure App Service
@@ -145,7 +145,7 @@ Implement container-based applications
 •	publish and automate image deployment to the Azure Container Registry
 •	publish a solution on an Azure Container Instance
 
-4. Implement and Manage Data Platforms (10-15%)
+# 4. Implement and Manage Data Platforms (10-15%)
 Implement NoSQL databases
 
 •	configure storage account tables
