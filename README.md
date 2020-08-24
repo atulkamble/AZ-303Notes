@@ -1,6 +1,6 @@
 ## AZ-303 Notes
 
-https://atulkamble.github.io/AZ-303-Notes/.
+https://atulkamble.github.io/AZ-303-Notes/
 
 ## Welcome to GitHub Pages
 
