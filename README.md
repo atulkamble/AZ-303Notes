@@ -1,4 +1,4 @@
-## [Exam AZ-303: Microsoft Azure Architect Technologies Study Notes](https://atulkamble.github.io/AZ-303-Notes)
+# Exam AZ-303: Microsoft Azure Architect Technologies Study Notes
 
 https://atulkamble.github.io/AZ-303Notes/
 
