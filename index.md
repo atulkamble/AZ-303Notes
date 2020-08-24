@@ -1,4 +1,3 @@
-# [Exam AZ-303: Microsoft Azure Architect Technologies Study Notes](https://atulkamble.github.io/AZ-303-Notes)
 
 1. Implement and Monitor an Azure Infrastructure (50-55%)
 Implement cloud infrastructure monitoring
