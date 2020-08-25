@@ -199,7 +199,7 @@ Courses in this packaged set:
 - Course AZ-300T04: Creating and Deploying Apps
 - Course AZ-300T06: Developing for the Cloud
 
-## Additional Resources
+## Informative Resources
 
 1. ## [**Cloud Certifications: Azure Solutions Architect Expert (AZ-300, AZ-301)**](https://app.pluralsight.com/guides/cloud-certifications:-azure-solutions-architect-expert-(az-300-az-301))
 
