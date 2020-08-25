@@ -174,19 +174,19 @@ Implement Azure SQL databases
 --------------------------------------------------------------------
 # Free online training by Microsoft:
 
-[Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
-[Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
-[Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/)
-[Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
-[Architect a data platform in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/)
-[Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)
-[Architect modern applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/)
-[Architect API integration in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
-[Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/)
+1. [Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
+2. [Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
+3. [Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/)
+4. [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
+5. [Architect a data platform in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/)
+6. [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)
+7. [Architect modern applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/)
+8. [Architect API integration in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
+9. [Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/)
 
 # Microsoft Official Instructor-led training courses aligned with the two exams:
-[Course AZ-300T01-A: Deploying and Configuring Infrastructure](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t01)
-[https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02)
-[https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03)
-[https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04)
-[https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06)
+1. [Course AZ-300T01-A: Deploying and Configuring Infrastructure](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t01)
+2. [https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02)
+3. [https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03)
+4. [https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04)
+5. [https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06)
