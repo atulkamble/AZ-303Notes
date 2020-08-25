@@ -172,21 +172,21 @@ Implement Azure SQL databases
 •	publish an Azure SQL database
 
 --------------------------------------------------------------------
-Free online training:
+# Free online training by Microsoft:
 
-Architect network infrastructure in Azure
-Architect storage infrastructure in Azure
-Architect compute infrastructure in Azure
-Architect infrastructure operations in Azure
-Architect a data platform in Azure
-Architect message brokering and serverless applications in Azure
-Architect modern applications in Azure
-Architect API integration in Azure
-Architect migration, business continuity, and disaster recovery in Azure
+[Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
+[Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
+[Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/)
+[Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
+[Architect a data platform in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/)
+[Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)
+[Architect modern applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/)
+[Architect API integration in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
+[Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/)
 
 # Microsoft Official Instructor-led training courses aligned with the two exams:
-https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t01
-https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02
-https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03
-https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04
-https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06
+[Course AZ-300T01-A: Deploying and Configuring Infrastructure](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t01)
+[https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02)
+[https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03)
+[https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04)
+[https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06)
