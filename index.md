@@ -18,118 +18,117 @@ o	visualize diagnostics data using Azure Monitor\
 o	monitor networking\
 o	monitor service health\
  
-•	monitor cost
-o	monitor spend
-o	report on spend
-•	configure advanced logging
-o	implement and configure Azure Monitor insights, including App Insights,
-Networks, Containers
-o	configure a Log Analytics workspace
-•	configure logging for workloads
-o	initiate automated responses by using Action Groups
-•	configure and manage advanced alerts
-o	collect alerts and metrics across multiple subscriptions
-o	view Alerts in Azure Monitor logs
+•	monitor cost\
+o	monitor spend\
+o	report on spend\
+•	configure advanced logging\
+o	implement and configure Azure Monitor insights, including App Insights,Networks, Containers
+o	configure a Log Analytics workspace\
+•	configure logging for workloads\
+o	initiate automated responses by using Action Groups\
+•	configure and manage advanced alerts\
+o	collect alerts and metrics across multiple subscriptions\
+o	view Alerts in Azure Monitor logs\
 
-Implement storage accounts
+Implement storage accounts\
 
-•	select storage account options based on a use case
-•	configure Azure Files and blob storage
-•	configure network access to the storage account
-•	implement Shared Access Signatures and access policies
-•	implement Azure AD authentication for storage
-•	manage access keys
-•	implement Azure storage replication
-•	implement Azure storage account failover
+•	select storage account options based on a use case\
+•	configure Azure Files and blob storage\
+•	configure network access to the storage account\
+•	implement Shared Access Signatures and access policies\
+•	implement Azure AD authentication for storage\
+•	manage access keys\
+•	implement Azure storage replication\
+•	implement Azure storage account failover\
 
-Implement VMs for Windows and Linux
+Implement VMs for Windows and Linux\
 
-•	configure High Availability
-•	configure storage for VMs
-•	select virtual machine size
-•	implement Azure Dedicated Hosts
-•	deploy and configure scale sets
-•	configure Azure Disk Encryption
+•	configure High Availability\
+•	configure storage for VMs\
+•	select virtual machine size\
+•	implement Azure Dedicated Hosts\
+•	deploy and configure scale sets\
+•	configure Azure Disk Encryption\
 
-Automate deployment and configuration of resources
+Automate deployment and configuration of resources\
 
-•	save a deployment as an Azure Resource Manager template
-•	modify Azure Resource Manager template
-•	evaluate location of new resources
-•	configure a virtual disk template
-•	deploy from a template
-•	manage a template library
-•	create and execute an automation runbook
+•	save a deployment as an Azure Resource Manager template\
+•	modify Azure Resource Manager template\
+•	evaluate location of new resources\
+•	configure a virtual disk template\
+•	deploy from a template\
+•	manage a template library\
+•	create and execute an automation runbook\
  
-Implement virtual networking
+Implement virtual networking\
 
-•	implement VNet to VNet connections
-•	implement VNet peering
+•	implement VNet to VNet connections\
+•	implement VNet peering\
 
-Implement Azure Active Directory
+Implement Azure Active Directory\
 
-•	add custom domains
-•	configure Azure AD Identity Protection
-•	implement self-service password reset
-•	implement Conditional Access including MFA
-•	configure user accounts for MFA
-•	configure fraud alerts
-•	configure bypass options
-•	configure Trusted IPs
-•	configure verification methods
-•	implement and manage guest accounts
-•	manage multiple directories
+•	add custom domains\
+•	configure Azure AD Identity Protection\
+•	implement self-service password reset\
+•	implement Conditional Access including MFA\
+•	configure user accounts for MFA\
+•	configure fraud alerts\
+•	configure bypass options\
+•	configure Trusted IPs\
+•	configure verification methods\
+•	implement and manage guest accounts\
+•	manage multiple directories\
 
-Implement and manage hybrid identities
+Implement and manage hybrid identities\
 
-•	install and configure Azure AD Connect
-•	identity synchronization options
-•	configure and manage password sync and password writeback
-•	configure single sign-on
-•	use Azure AD Connect Health
+•	install and configure Azure AD Connect\
+•	identity synchronization options\
+•	configure and manage password sync and password writeback\
+•	configure single sign-on\
+•	use Azure AD Connect Health\
 
 # 2. Implement Management and Security Solutions (25-30%)
 ## [Microsoft Learn Path: Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/)
 Manage workloads in Azure
 
-•	migrate workloads using Azure Migrate
-o	assess infrastructure
-o	select a migration method
-o	prepare the on-premises for migration
-o	recommend target infrastructure
-•	implement Azure Backup for VMs
-•	implement disaster recovery
-•	implement Azure Update Management
+•	migrate workloads using Azure Migrate\
+o	assess infrastructure\
+o	select a migration method\
+o	prepare the on-premises for migration\
+o	recommend target infrastructure\
+•	implement Azure Backup for VMs\
+•	implement disaster recovery\
+•	implement Azure Update Management\
 
-Implement load balancing and network security
+Implement load balancing and network security\
 
-•	implement Azure Load Balancer
-•	implement an application gateway
+•	implement Azure Load Balancer\
+•	implement an application gateway\
  
-•	implement a Web Application Firewall
-•	implement Azure Firewall
-•	implement the Azure Front Door Service
-•	implement Azure Traffic Manager
-•	implement Network Security Groups and Application Security Groups
-•	implement Bastion
+•	implement a Web Application Firewall\
+•	implement Azure Firewall\
+•	implement the Azure Front Door Service\
+•	implement Azure Traffic Manager\
+•	implement Network Security Groups and Application Security Groups\
+•	implement Bastion\
 
-Implement and manage Azure governance solutions
+Implement and manage Azure governance solutions\
 
-•	create and manage hierarchical structure that contains management groups, subscriptions and resource groups
-•	assign RBAC roles
-•	create a custom RBAC role
-•	configure access to Azure resources by assigning roles
-•	configure management access to Azure
-•	interpret effective permissions
-•	set up and perform an access review
-•	implement and configure an Azure Policy
-•	implement and configure an Azure Blueprint
+•	create and manage hierarchical structure that contains management groups, subscriptions and resource groups\
+•	assign RBAC roles\
+•	create a custom RBAC role\
+•	configure access to Azure resources by assigning roles\
+•	configure management access to Azure\
+•	interpret effective permissions\
+•	set up and perform an access review\
+•	implement and configure an Azure Policy\
+•	implement and configure an Azure Blueprint\
 
-Manage security for applications
+Manage security for applications\
 
-•	implement and configure KeyVault
-•	implement and configure Azure AD Managed Identities
-•	register and manage applications in Azure AD
+•	implement and configure KeyVault\
+•	implement and configure Azure AD Managed Identities\
+•	register and manage applications in Azure AD\
 
 # 3. Implement Solutions for Apps (10-15%)
 ## [Microsoft Learn Path: Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)
@@ -137,37 +136,37 @@ Manage security for applications
 ## [Microsoft Learn Path: Architect API integration in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
 Implement an application infrastructure
 
-•	create and configure Azure App Service
-•	create an App Service Web App for Containers
-•	create and configure an App Service plan
-•	configure an App Service
-•	configure networking for an App Service
-•	create and manage deployment slots
-•	implement Logic Apps
-•	implement Azure Functions
+•	create and configure Azure App Service\
+•	create an App Service Web App for Containers\
+•	create and configure an App Service plan\
+•	configure an App Service\
+•	configure networking for an App Service\
+•	create and manage deployment slots\
+•	implement Logic Apps\
+•	implement Azure Functions\
 
-Implement container-based applications
+Implement container-based applications\
 
-•	create a container image
-•	configure Azure Kubernetes Service
+•	create a container image\
+•	configure Azure Kubernetes Service\
  
-•	publish and automate image deployment to the Azure Container Registry
-•	publish a solution on an Azure Container Instance
+•	publish and automate image deployment to the Azure Container Registry\
+•	publish a solution on an Azure Container Instance\
 
 # 4. Implement and Manage Data Platforms (10-15%)
 
 ## [Microsoft Learn Path: Architect a data platform in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/)
 Implement NoSQL databases
 
-•	configure storage account tables
-•	select appropriate CosmosDB APIs
-•	set up replicas in CosmosDB
-Implement Azure SQL databases
+•	configure storage account tables\
+•	select appropriate CosmosDB APIs\
+•	set up replicas in CosmosDB\
+Implement Azure SQL databases\
 
-•	configure Azure SQL database settings
-•	implement Azure SQL Database managed instances
-•	configure HA for an Azure SQL database
-•	publish an Azure SQL database
+•	configure Azure SQL database settings\
+•	implement Azure SQL Database managed instances\
+•	configure HA for an Azure SQL database\
+•	publish an Azure SQL database\
 
 --------------------------------------------------------------------
 # Free online training | Microsoft Learn:
