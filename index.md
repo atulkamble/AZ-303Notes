@@ -1,5 +1,12 @@
 
 # 1. Implement and Monitor an Azure Infrastructure (50-55%)
+https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/
+https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/
+https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/
+https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/
+
+
+
 Implement cloud infrastructure monitoring
 
 •	monitor security
@@ -84,6 +91,7 @@ Implement and manage hybrid identities
 •	use Azure AD Connect Health
 
 # 2. Implement Management and Security Solutions (25-30%)
+https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/
 Manage workloads in Azure
 
 •	migrate workloads using Azure Migrate
@@ -126,6 +134,9 @@ Manage security for applications
 •	register and manage applications in Azure AD
 
 # 3. Implement Solutions for Apps (10-15%)
+https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/
+https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/
+https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/
 Implement an application infrastructure
 
 •	create and configure Azure App Service
@@ -146,6 +157,8 @@ Implement container-based applications
 •	publish a solution on an Azure Container Instance
 
 # 4. Implement and Manage Data Platforms (10-15%)
+
+https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/
 Implement NoSQL databases
 
 •	configure storage account tables
