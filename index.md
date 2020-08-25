@@ -170,3 +170,23 @@ Implement Azure SQL databases
 •	implement Azure SQL Database managed instances
 •	configure HA for an Azure SQL database
 •	publish an Azure SQL database
+
+--------------------------------------------------------------------
+Free online training:
+
+Architect network infrastructure in Azure
+Architect storage infrastructure in Azure
+Architect compute infrastructure in Azure
+Architect infrastructure operations in Azure
+Architect a data platform in Azure
+Architect message brokering and serverless applications in Azure
+Architect modern applications in Azure
+Architect API integration in Azure
+Architect migration, business continuity, and disaster recovery in Azure
+
+# Microsoft Official Instructor-led training courses aligned with the two exams:
+https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t01
+https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02
+https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03
+https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04
+https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06
