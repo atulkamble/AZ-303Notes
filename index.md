@@ -201,7 +201,7 @@ Courses in this packaged set:
 
 ## Additional Resources
 
-1. ## [**Cloud Certifications: Azure Solutions Architect Expert (AZ-300, AZ-301)**](Cloud Certifications: Azure Solutions Architect Expert (AZ-300, AZ-301))
+1. ## [**Cloud Certifications: Azure Solutions Architect Expert (AZ-300, AZ-301)**](https://app.pluralsight.com/guides/cloud-certifications:-azure-solutions-architect-expert-(az-300-az-301))
 
 2. ## [**Cloud Certifications: Microsoft Azure AZ-303 and AZ-304 Exam Requirement Changes**](https://app.pluralsight.com/guides/cloud-certifications:-microsoft-azure-az-303-and-az-304-exam-requirement-changes)
 
