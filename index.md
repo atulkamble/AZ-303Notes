@@ -1,6 +1,6 @@
 
 # 1. Implement and Monitor an Azure Infrastructure (50-55%)
-- [Microsoft Learn Path: Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
+## [Microsoft Learn Path: Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
 - [Microsoft Learn Path: Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
 - [Microsoft Learn Path: Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/)
 - [Microsoft Learn Path: Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
