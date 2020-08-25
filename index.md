@@ -5,9 +5,7 @@
 ## [Microsoft Learn Path: Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/)
 ## [Microsoft Learn Path: Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
 
-
-
-Implement cloud infrastructure monitoring
+### Implement cloud infrastructure monitoring
 
 •	monitor security
 •	monitor performance
