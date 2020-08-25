@@ -186,7 +186,7 @@ Implement Azure SQL databases
 
 # Microsoft Official Instructor-led training courses aligned with the two exams:
 1. [Course AZ-300T01-A: Deploying and Configuring Infrastructure](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t01)
-2. [https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02)
-3. [https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03)
-4. [https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04)
-5. [https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06)
+2. [Course AZ-300T02-A: Implementing Workloads and Security](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02)
+3. [Course AZ-300T03-A: Understanding Cloud Architect Technology Solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03)
+4. [Course AZ-300T04-A: Creating and Deploying Apps](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04)
+5. [Course AZ-300T06-A: Developing for the Cloud](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06)
