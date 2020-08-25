@@ -188,3 +188,13 @@ Implement Azure SQL databases
 3. [Course AZ-300T03-A: Understanding Cloud Architect Technology Solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03)
 4. [Course AZ-300T04-A: Creating and Deploying Apps](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04)
 5. [Course AZ-300T06-A: Developing for the Cloud](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06)
+
+Or Else You can try 
+[**Microsoft Azure Solutions Architect: Technologies Track by FASTLANE | Microsoft Gold Partner**](https://www.fastlane.live/ww_en/e-learning/microsoft-azure-solutions-architect-technologies-track-laas.html)
+Courses in this packaged set:
+
+- Course AZ-300T01: Deploying and Configuring Infrastructure
+- Course AZ-300T02: Implementing Workloads and Security
+- Course AZ-300T03: Understanding Cloud Architect Technology Solutions
+- Course AZ-300T04: Creating and Deploying Apps
+- Course AZ-300T06: Developing for the Cloud
