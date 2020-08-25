@@ -1,9 +1,9 @@
 
 # 1. Implement and Monitor an Azure Infrastructure (50-55%)
-https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/
-https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/
-https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/
-https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/
+- [Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
+- [Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
+- [Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/)
+- [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
 
 
 
@@ -91,7 +91,7 @@ Implement and manage hybrid identities
 •	use Azure AD Connect Health
 
 # 2. Implement Management and Security Solutions (25-30%)
-https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/
+- [Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/)
 Manage workloads in Azure
 
 •	migrate workloads using Azure Migrate
@@ -134,9 +134,9 @@ Manage security for applications
 •	register and manage applications in Azure AD
 
 # 3. Implement Solutions for Apps (10-15%)
-https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/
-https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/
-https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/
+- [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)
+- [Architect modern applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/)
+- [Architect API integration in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
 Implement an application infrastructure
 
 •	create and configure Azure App Service
@@ -158,7 +158,7 @@ Implement container-based applications
 
 # 4. Implement and Manage Data Platforms (10-15%)
 
-https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/
+- [Architect a data platform in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/)
 Implement NoSQL databases
 
 •	configure storage account tables
