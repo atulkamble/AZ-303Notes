@@ -198,3 +198,9 @@ Courses in this packaged set:
 - Course AZ-300T03: Understanding Cloud Architect Technology Solutions
 - Course AZ-300T04: Creating and Deploying Apps
 - Course AZ-300T06: Developing for the Cloud
+
+# Technical Author Profile (Study Guide + Notes):
+- [LinkedIn: atuljkamble](https://www.linkedin.com/in/atuljkamble) 
+- [Twitter: atul_kamble](https://www.twitter.com/atul_kamble)
+- [Github: atulkamble](https://www.github.com/atulkamble)
+- [Medium: atul_kamble](https://medium.com/@atul_kamble)
