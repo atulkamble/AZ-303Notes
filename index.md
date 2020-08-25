@@ -200,7 +200,11 @@ Courses in this packaged set:
 - Course AZ-300T06: Developing for the Cloud
 
 ## Additional Resources
-## [**Cloud Certifications: Microsoft Azure AZ-303 and AZ-304 Exam Requirement Changes**](https://app.pluralsight.com/guides/cloud-certifications:-microsoft-azure-az-303-and-az-304-exam-requirement-changes)
+
+1. ## [**Cloud Certifications: Azure Solutions Architect Expert (AZ-300, AZ-301)**](Cloud Certifications: Azure Solutions Architect Expert (AZ-300, AZ-301))
+
+2. ## [**Cloud Certifications: Microsoft Azure AZ-303 and AZ-304 Exam Requirement Changes**](https://app.pluralsight.com/guides/cloud-certifications:-microsoft-azure-az-303-and-az-304-exam-requirement-changes)
+
 
 # Technical Author Profile (Study Guide + Notes):
 - [LinkedIn: atuljkamble](https://www.linkedin.com/in/atuljkamble) 
