@@ -206,7 +206,7 @@ Courses in this packaged set:
 2. ## [**Cloud Certifications: Microsoft Azure AZ-303 and AZ-304 Exam Requirement Changes**](https://app.pluralsight.com/guides/cloud-certifications:-microsoft-azure-az-303-and-az-304-exam-requirement-changes)
 
 
-# Technical Author Profile (Study Guide + Notes Collaboration):
+# Technical Author Profile (Study Guide + Exam Tips + Notes Collaboration):
 - [LinkedIn: atuljkamble](https://www.linkedin.com/in/atuljkamble) 
 - [Twitter: atul_kamble](https://www.twitter.com/atul_kamble)
 - [Github: atulkamble](https://www.github.com/atulkamble)
