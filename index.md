@@ -7,16 +7,16 @@
 
 ### Implement cloud infrastructure monitoring
 
-•	monitor security
-•	monitor performance
-o	configure diagnostic settings on resources
-o	create a performance baseline for resources
-o	monitor for unused resources
-o	monitor performance capacity
-o	visualize diagnostics data using Azure Monitor
-•	monitor health and availability
-o	monitor networking
-o	monitor service health
+•	monitor security\
+•	monitor performance\
+o	configure diagnostic settings on resources\
+o	create a performance baseline for resources\
+o	monitor for unused resources\
+o	monitor performance capacity\
+o	visualize diagnostics data using Azure Monitor\
+•	monitor health and availability\
+o	monitor networking\
+o	monitor service health\
  
 •	monitor cost
 o	monitor spend
