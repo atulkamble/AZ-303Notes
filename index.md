@@ -7,6 +7,8 @@
 
 ### Implement cloud infrastructure monitoring
 
+## [Azure Monitor | Bridge to DevOps](https://www.youtube.com/watch?v=emjdG3I8fbc&feature=emb_rel_end)
+
 •	monitor security\
 •	monitor performance\
 o	configure diagnostic settings on resources\
