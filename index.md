@@ -1,3 +1,8 @@
+## Informative Resources
+
+1. ## [**Cloud Certifications: Azure Solutions Architect Expert (AZ-300, AZ-301)**](https://app.pluralsight.com/guides/cloud-certifications:-azure-solutions-architect-expert-(az-300-az-301))
+
+2. ## [**Cloud Certifications: Microsoft Azure AZ-303 and AZ-304 Exam Requirement Changes**](https://app.pluralsight.com/guides/cloud-certifications:-microsoft-azure-az-303-and-az-304-exam-requirement-changes)
 
 # 1. Implement and Monitor an Azure Infrastructure (50-55%)
 ## [Microsoft Learn Path: Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
@@ -199,12 +204,6 @@ Courses in this packaged set:
 - Course AZ-300T03: Understanding Cloud Architect Technology Solutions
 - Course AZ-300T04: Creating and Deploying Apps
 - Course AZ-300T06: Developing for the Cloud
-
-## Informative Resources
-
-1. ## [**Cloud Certifications: Azure Solutions Architect Expert (AZ-300, AZ-301)**](https://app.pluralsight.com/guides/cloud-certifications:-azure-solutions-architect-expert-(az-300-az-301))
-
-2. ## [**Cloud Certifications: Microsoft Azure AZ-303 and AZ-304 Exam Requirement Changes**](https://app.pluralsight.com/guides/cloud-certifications:-microsoft-azure-az-303-and-az-304-exam-requirement-changes)
 
 
 # Technical Author (Study Guide + Exam Tips + Notes Collaboration):
