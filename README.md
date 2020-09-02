@@ -1,6 +1,6 @@
 # Exam AZ-303: Microsoft Azure Architect Technologies Study Notes
 
-https://atulkamble.github.io/AZ-303Notes/
+[AZ-303 Notes](https://atulkamble.github.io/AZ-303Notes/)
 
 ## Welcome to GitHub Pages
 
