@@ -209,7 +209,7 @@ Implement Azure SQL databases\
 
 
 # Technical Author (Study Guide + Exam Tips + Notes Collaboration):
-- [LinkedIn: atuljkamble](https://www.linkedin.com/in/atuljkamble) 
-- [Twitter: atul_kamble](https://www.twitter.com/atul_kamble)
-- [Github: atulkamble](https://www.github.com/atulkamble)
-- [Medium: atul_kamble](https://medium.com/@atul_kamble)
+## - [LinkedIn: atuljkamble](https://www.linkedin.com/in/atuljkamble) 
+## - [Twitter: atul_kamble](https://www.twitter.com/atul_kamble)
+## - [Github: atulkamble](https://www.github.com/atulkamble)
+## - [Medium: atul_kamble](https://medium.com/@atul_kamble)
