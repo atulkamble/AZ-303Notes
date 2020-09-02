@@ -188,7 +188,7 @@ Implement Azure SQL databases\
 8. [Architect API integration in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
 9. [Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/)
 
-# Microsoft Official Instructor-led training courses aligned with the two exams:
+# Microsoft Official Instructor-led Training Courses aligned with the Two Exams:
 1. [Course AZ-300T01-A: Deploying and Configuring Infrastructure](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t01)
 2. [Course AZ-300T02-A: Implementing Workloads and Security](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02)
 3. [Course AZ-300T03-A: Understanding Cloud Architect Technology Solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03)
