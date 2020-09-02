@@ -1,3 +1,5 @@
+# Exam AZ-303: Microsoft Azure Architect Technologies Study Path + Resources + Imp Notes
+
 ## Informative Resources
 
 1. ## [**Cloud Certifications: Azure Solutions Architect Expert (AZ-300, AZ-301)**](https://app.pluralsight.com/guides/cloud-certifications:-azure-solutions-architect-expert-(az-300-az-301))
