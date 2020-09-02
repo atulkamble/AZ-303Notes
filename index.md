@@ -4,6 +4,36 @@
 
 2. ## [**Cloud Certifications: Microsoft Azure AZ-303 and AZ-304 Exam Requirement Changes**](https://app.pluralsight.com/guides/cloud-certifications:-microsoft-azure-az-303-and-az-304-exam-requirement-changes)
 
+--------------------------------------------------------------------
+# Free online training | Microsoft Learn:
+
+1. [Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
+2. [Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
+3. [Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/)
+4. [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
+5. [Architect a data platform in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/)
+6. [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)
+7. [Architect modern applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/)
+8. [Architect API integration in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
+9. [Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/)
+
+# Microsoft Official Instructor-led Training Courses aligned with the Two Exams (Microsoft Learning Partners):
+1. [Course AZ-300T01-A: Deploying and Configuring Infrastructure](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t01)
+2. [Course AZ-300T02-A: Implementing Workloads and Security](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02)
+3. [Course AZ-300T03-A: Understanding Cloud Architect Technology Solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03)
+4. [Course AZ-300T04-A: Creating and Deploying Apps](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04)
+5. [Course AZ-300T06-A: Developing for the Cloud](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06)
+
+Or Else You can try 
+## [**Microsoft Azure Solutions Architect: Technologies Track by FASTLANE | Microsoft Gold Partner**](https://www.fastlane.live/ww_en/e-learning/microsoft-azure-solutions-architect-technologies-track-laas.html)
+Courses in this packaged set:
+
+- Course AZ-300T01: Deploying and Configuring Infrastructure
+- Course AZ-300T02: Implementing Workloads and Security
+- Course AZ-300T03: Understanding Cloud Architect Technology Solutions
+- Course AZ-300T04: Creating and Deploying Apps
+- Course AZ-300T06: Developing for the Cloud
+
 # 1. Implement and Monitor an Azure Infrastructure (50-55%)
 ## [Microsoft Learn Path: Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
 ## [Microsoft Learn Path: Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
@@ -174,36 +204,6 @@ Implement Azure SQL databases\
 •	implement Azure SQL Database managed instances\
 •	configure HA for an Azure SQL database\
 •	publish an Azure SQL database\
-
---------------------------------------------------------------------
-# Free online training | Microsoft Learn:
-
-1. [Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
-2. [Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
-3. [Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/)
-4. [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
-5. [Architect a data platform in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/)
-6. [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)
-7. [Architect modern applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/)
-8. [Architect API integration in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
-9. [Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/)
-
-# Microsoft Official Instructor-led Training Courses aligned with the Two Exams:
-1. [Course AZ-300T01-A: Deploying and Configuring Infrastructure](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t01)
-2. [Course AZ-300T02-A: Implementing Workloads and Security](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t02)
-3. [Course AZ-300T03-A: Understanding Cloud Architect Technology Solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t03)
-4. [Course AZ-300T04-A: Creating and Deploying Apps](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t04)
-5. [Course AZ-300T06-A: Developing for the Cloud](https://docs.microsoft.com/en-us/learn/certifications/courses/az-300t06)
-
-Or Else You can try 
-## [**Microsoft Azure Solutions Architect: Technologies Track by FASTLANE | Microsoft Gold Partner**](https://www.fastlane.live/ww_en/e-learning/microsoft-azure-solutions-architect-technologies-track-laas.html)
-Courses in this packaged set:
-
-- Course AZ-300T01: Deploying and Configuring Infrastructure
-- Course AZ-300T02: Implementing Workloads and Security
-- Course AZ-300T03: Understanding Cloud Architect Technology Solutions
-- Course AZ-300T04: Creating and Deploying Apps
-- Course AZ-300T06: Developing for the Cloud
 
 
 # Technical Author (Study Guide + Exam Tips + Notes Collaboration):
